@@ -1,0 +1,5 @@
+[{
+	text:'child node'
+},{
+	text:'leaf node', leaf: true
+}]
